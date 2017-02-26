@@ -1,6 +1,6 @@
 #Tiny-Encryption-Algorithm
 
-Encryption of text Using TEA and {embedding it in  a video (works only in windows)}, with socket programming to send the encrypted file to another user on network. (GUI Support)
+Encryption and Decryption of text Using TEA and {Embedding and Dembedding it (in/out of)  a video (works only in windows)}, with socket programming to send the encrypted file to another user on network. (GUI Support)
 
 Name: Tiny-Encryption-Algorithm
 Author: Ripu Sudan
