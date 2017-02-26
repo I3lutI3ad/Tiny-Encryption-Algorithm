@@ -1,0 +1,2 @@
+# Tiny-Encryption-Algorithm
+Encryption of text Using TEA and {embedding it in  a video (works only in windows)}, with socket programming to send the encrypted file to another user on network. (GUI Support)
